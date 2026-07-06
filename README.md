@@ -54,7 +54,7 @@ It is a professional evidence layer, not a private archive.
 
 ## Related Public Work
 
-- `gmais-framework` — public authorship and citation anchor for governed multi-agent intelligence concepts.
+- [gmais-framework](https://github.com/Ziontyler7/gmais-framework) — public authorship and citation anchor for governed multi-agent intelligence concepts.
 
 ## Contact
 
