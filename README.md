@@ -58,5 +58,5 @@ It is a professional evidence layer, not a private archive.
 
 ## Contact
 
-- LinkedIn: add official LinkedIn URL
-- Portfolio: add portfolio URL when ready
+- LinkedIn: https://linkedin.com/in/michael-tyler
+- Portfolio: https://edios.cloud
