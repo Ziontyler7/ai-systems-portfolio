@@ -1,24 +1,41 @@
 # AI Systems Portfolio
 
 **Michael Tyler, M.Ed.**  
-AI Systems Architect | Product Builder | Founder | Human-AI Collaboration
+AI Systems Architect | Product Engineer | Founder
 
 ## Purpose
 
-This repository is a public professional evidence hub for Michael Tyler's work in AI systems architecture, multi-agent workflows, governance-aware design, cloud/API implementation, and product-building.
+This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the six-application Edios Suite.
 
 It is designed to support professional evaluation by recruiters, hiring managers, collaborators, founders, and technical reviewers.
 
 ## What This Repository Demonstrates
 
 - AI systems architecture
+- Product engineering and iOS application development
 - Multi-agent and multi-model workflow thinking
 - Human-in-the-loop approval patterns
 - Context and memory boundary design
 - Governance-aware AI systems
-- Cloud/API product development literacy
+- Cloud and API product development literacy
 - Public technical documentation
 - Founder-level product execution
+- Evidence-backed professional claims
+
+## Featured Portfolio
+
+### Edios Suite
+
+Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed a six-application iOS portfolio and brought all six products to TestFlight distribution for beta testing.
+
+1. Radius
+2. Comedy Camera
+3. Amateur Artist
+4. MindReader
+5. Ennerstellar
+6. Edios Digital Memory Platform
+
+See [`portfolio/edios-suite/README.md`](portfolio/edios-suite/README.md) for the public-safe suite overview and evidence status.
 
 ## Repository Map
 
@@ -29,22 +46,44 @@ ai-systems-portfolio/
 │   ├── founder-narrative.md
 │   ├── technical-inventory.md
 │   ├── public-boundaries.md
-│   └── glossary.md
+│   ├── glossary.md
+│   └── releases/
+│       └── RCA-002/
 ├── architecture/
 │   ├── ai-orchestration-overview.md
 │   └── human-approval-boundaries.md
+├── portfolio/
+│   └── edios-suite/
+│       ├── README.md
+│       ├── application-registry.md
+│       ├── testflight-status.md
+│       └── six public-safe case studies
 ├── writing/
 │   └── public-technical-writing-index.md
 ├── resume/
-│   └── README.md
+│   ├── README.md
+│   └── claim-to-evidence-map.md
 └── NOTICE.md
 ```
 
 ## Professional Narrative
 
-Michael Tyler's path began in education and evolved into AI systems architecture through direct execution: working with AI tools, APIs, cloud services, product prototypes, and multi-model workflows.
+Michael Tyler's path began in education and evolved into AI systems architecture and product engineering through direct execution: working with AI tools, APIs, cloud services, iOS applications, product prototypes, and multi-model workflows.
 
-That background creates a practical design orientation: systems should be understandable, useful, accountable, and built around real human needs.
+That background creates a practical design orientation: systems should be understandable, useful, accountable, private where appropriate, and built around real human needs.
+
+## Evidence Standard
+
+This repository distinguishes among:
+
+- documented fact;
+- user-confirmed evidence;
+- screenshot-supported evidence;
+- implementation evidence;
+- pending verification;
+- planned work.
+
+TestFlight distribution is represented as a beta milestone, not an App Store launch.
 
 ## Public Boundary
 
@@ -59,4 +98,4 @@ It is a professional evidence layer, not a private archive.
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/michael-tyler
-- Portfolio: https://edios.cloud
+- GitHub: https://github.com/Ziontyler7
