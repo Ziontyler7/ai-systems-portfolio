@@ -1,66 +1,81 @@
 # RCA-002 Repository Registry
 
-**Release:** RCA-002 — Production Normalization and Release Hardening  
-**Status:** Initial inventory; verification in progress  
+**Release:** RCA-002 — Public Repository Production Normalization  
+**Status:** Authorized implementation in progress  
 **Authority:** Operation Runway Evidence Command Center
 
 ## Purpose
 
-This registry records the known GitHub estate, each repository's intended role, visibility, lifecycle state, canonicality, and current production recommendation. It prevents duplicate repositories, legacy code, public evidence, and private implementation from being treated as interchangeable.
+RCA-002 is limited to the three authorized public repositories that present Michael Tyler's professional identity, product evidence, and public framework authorship.
 
-## Registry
+## Authorized scope
 
-| Repository | Visibility | Intended role | Initial lifecycle classification | Canonical status | Initial release recommendation |
-|---|---|---|---|---|---|
-| `Ziontyler7/ai-systems-portfolio` | Public | Professional evidence hub for recruiters, hiring managers, collaborators, and technical reviewers | Active | Canonical public evidence repository | Revision Required |
-| `Ziontyler7/gmais-framework` | Public | Public authorship and citation anchor for governed multi-agent intelligence concepts | Active | Canonical public framework record, pending content verification | Revision Required |
-| `Ziontyler7/Ziontyler7` | Public | GitHub profile repository and professional entry point | Active | Canonical profile surface | Revision Required |
-| `Ziontyler7/Edios` | Private | Private Edios repository; exact operational role not yet verified | Undetermined | Not yet assigned | Blocked pending inspection |
-| `Ziontyler7/edios-core-clean` | Private | Large private implementation repository and probable current core | Active candidate | Canonical implementation candidate | Blocked pending build, security, branch, and architecture verification |
-| `Ziontyler7/edios-rig-library` | Private | Supporting rig or library assets | Active candidate | Supporting repository candidate | Blocked pending dependency and licensing review |
-| `Ziontyler7/EdiosV1` | Private | Earlier Edios implementation | Legacy candidate | Non-canonical unless evidence proves otherwise | Archive candidate pending comparison |
-| `Ziontyler7/Initial-authorship-and-IP-record-for-Edios-documents` | Private | Authorship and intellectual-property provenance record | Record repository | Canonical provenance candidate | Approved with Conditions pending integrity review |
+| Repository | Public role | RCA-002 objective | Current recommendation |
+|---|---|---|---|
+| `Ziontyler7/Ziontyler7` | Professional profile and public entry point | Present the approved professional identity, Edios chronology, six-app suite, and public-work links | Revision in progress |
+| `Ziontyler7/ai-systems-portfolio` | Canonical public evidence hub | Establish the six-app registry, TestFlight evidence status, case studies, and claim-to-evidence controls | Revision in progress |
+| `Ziontyler7/gmais-framework` | Public authorship and citation record | Clarify public framework definitions, applied context, chronology, and disclosure boundary | Revision in progress |
 
-## Immediate risks
+## Explicitly out of scope
 
-1. `edios-core-clean` uses `clean-post-cutover-hardening-2026-05-11` as its default branch rather than a stable conventional production branch. This may be intentional, but it must be verified and documented before release.
-2. `Edios`, `EdiosV1`, and `edios-core-clean` have overlapping names and potentially overlapping scope. Their canonical relationships must be proven, not inferred.
-3. The public evidence repositories currently demonstrate narrative and architectural documentation, but production readiness requires claim-to-evidence mappings and independent verification.
-4. Repository visibility boundaries must be checked before any private implementation evidence is surfaced publicly.
-5. No repository receives an Approved production recommendation solely because it exists or has recent commits.
+The following private repositories are not authorized for inspection, modification, classification, or release action under RCA-002:
 
-## Canonicality rules
+- `Ziontyler7/Edios`
+- `Ziontyler7/edios-core-clean`
+- `Ziontyler7/edios-rig-library`
+- `Ziontyler7/EdiosV1`
+- `Ziontyler7/Initial-authorship-and-IP-record-for-Edios-documents`
 
-- Exactly one repository may be designated canonical for any deployable application or authoritative evidence function.
-- Legacy repositories must identify their successor and must not appear active without an explicit reason.
-- Public repositories may contain professional evidence, sanitized architecture, and authorship records, but not secrets, private prompts, personal records, or unpublished implementation details.
-- Private repositories may support public claims only through reviewed evidence references that do not expose protected material.
-- A branch name, repository name, or recent commit is not evidence of production status.
+Their exclusion is a scope-control decision, not a lifecycle, quality, canonicality, or archive judgment.
 
-## Required verification pass
+## Locked facts for this release
 
-For each repository, RCA-002 must verify:
+- Professional headline: **AI Systems Architect | Product Engineer | Founder**
+- Houston Independent School District dates: **2024–2026**
+- Earliest currently defensible Edios chronology: **2024**
+- Edios Digital Memory Platform LLC established: **March 2026**
+- Founder role: **Founder | AI Systems Architect | Product Engineer**
+- Doctoral wording: **Doctorate in Organizational Leadership with an emphasis in Organizational Development — In Progress**
+- Current Firebase URL is excluded from public repository links for this release.
 
-- ownership and permission level;
-- repository description and declared purpose;
-- default branch and active branches;
-- current README accuracy;
-- architecture and dependency documentation;
-- recent commits, open issues, and pull requests;
-- CI/CD and test evidence;
-- secret, privacy, and licensing posture;
-- deployment or artifact evidence where applicable;
-- relationship to resume, LinkedIn, portfolio, and other public claims;
-- final lifecycle and release recommendation.
+## Six-app registry order
+
+1. Radius
+2. Comedy Camera
+3. Amateur Artist
+4. MindReader
+5. Ennerstellar
+6. Edios Digital Memory Platform
+
+All six applications are represented as having reached TestFlight distribution for beta testing. RCA-002 does not represent them as App Store launches.
+
+## Public-boundary rules
+
+- No private source code, prompts, memory systems, infrastructure configuration, schemas, credentials, personal records, or protected operational material may be published.
+- Claims must distinguish documented, screenshot-supported, user-confirmed, implementation-backed, and pending evidence.
+- Public wording must not imply partnership, user scale, revenue, enterprise deployment, certification, or App Store availability without separate proof.
+- The corporate entity code remains outside the resume and GitHub profile.
+
+## Acceptance criteria
+
+- [ ] Profile repository presents the approved identity and six-app suite.
+- [ ] Portfolio repository contains the six-app registry and controlled TestFlight wording.
+- [ ] Six public-safe application case studies are present.
+- [ ] Claim-to-evidence mapping records evidence strength and residual gaps.
+- [ ] GMAIS remains a narrow authorship and citation repository.
+- [ ] Edios 2024 origin is distinct from March 2026 company formation.
+- [ ] Current Firebase URL is not published.
+- [ ] No private repository is touched.
+- [ ] Final public copy receives fidelity review.
+- [ ] Michael approves merge after reviewing the pull requests.
 
 ## Recommendation vocabulary
 
-- **Approved:** All applicable production gates passed.
+- **Approved:** All applicable gates passed.
 - **Approved with Conditions:** Safe for the declared purpose with explicit residual conditions.
-- **Revision Required:** Viable, but material corrections are required before production release.
-- **Blocked:** Verification cannot proceed or critical risks remain unresolved.
-- **Archive:** Repository should be preserved as history but removed from active operational positioning.
+- **Revision Required:** Material corrections remain before release.
+- **Blocked:** Critical evidence or safety conditions prevent release.
 
 ## Change control
 
-Changes to repository roles, canonicality, public/private boundaries, or release recommendations must be made through a traceable issue and pull request under RCA-002 or a successor release.
+Any expansion beyond these three public repositories requires new explicit authorization from Michael Tyler.
