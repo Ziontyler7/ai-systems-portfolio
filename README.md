@@ -5,7 +5,7 @@ AI Systems Architect | Product Engineer | Founder
 
 ## Purpose
 
-This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the six-application Edios Suite.
+This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the seven-application Edios Suite.
 
 It is designed to support professional evaluation by recruiters, hiring managers, collaborators, founders, and technical reviewers.
 
@@ -26,7 +26,7 @@ It is designed to support professional evaluation by recruiters, hiring managers
 
 ### Edios Suite
 
-Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed a six-application iOS portfolio and brought all six products to TestFlight distribution for beta testing.
+Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed a seven-application iOS portfolio and advanced all seven products through TestFlight.
 
 1. Radius
 2. Comedy Camera
@@ -34,6 +34,9 @@ Michael created the Edios initiative in 2024 and established **Edios Digital Mem
 4. MindReader
 5. Ennerstellar
 6. Edios Digital Memory Platform
+7. Ediogram
+
+Six applications are in TestFlight beta distribution. Ediogram version 1.0 has completed multiple build uploads, and its latest evidenced build is awaiting review.
 
 See [`portfolio/edios-suite/README.md`](portfolio/edios-suite/README.md) for the public-safe suite overview and evidence status.
 
@@ -57,7 +60,8 @@ ai-systems-portfolio/
 │       ├── README.md
 │       ├── application-registry.md
 │       ├── testflight-status.md
-│       └── six public-safe case studies
+│       ├── ediogram.md
+│       └── six additional public-safe case studies
 ├── writing/
 │   └── public-technical-writing-index.md
 ├── resume/
