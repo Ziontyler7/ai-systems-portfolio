@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Edios Suite is a seven-application iOS portfolio created and developed by Michael Tyler.
+The Edios Suite is an eight-application iOS portfolio created and developed by Michael Tyler.
 
 The underlying Edios initiative began in 2024. **Edios Digital Memory Platform LLC** was established in March 2026 as a private-first consumer software incubator and digital experience lab built around absolute digital ownership, local-first operation, and secure user-controlled data.
 
@@ -17,12 +17,13 @@ Michael's role across the suite includes product strategy, systems architecture,
 5. **Ennerstellar** — memorial technology and space-oriented remembrance experience
 6. **Edios Digital Memory Platform** — private-first digital memory application
 7. **Ediogram** — fast-paced crossword-grid builder with Solo Sprint and competitive play
+8. **The Village** — local-first practical-skills learning platform
 
 ## Release status
 
-All seven applications have advanced through TestFlight.
+All eight applications have reached TestFlight beta distribution.
 
-Six applications are in TestFlight beta distribution. Ediogram version 1.0 has completed multiple build uploads; the latest evidenced build is awaiting review.
+The Village version 1.0 build 1 was uploaded on July 10, 2026 at 9:56 PM and approved for TestFlight after review. Internal and external Family testing groups are configured.
 
 This is a controlled TestFlight claim. It is not an App Store launch claim, a public-user-scale claim, or a commercial-performance claim.
 
@@ -30,13 +31,13 @@ This is a controlled TestFlight claim. It is not an App Store launch claim, a pu
 
 Available evidence presently includes:
 
-- a visual Edios Suite folder showing the original six applications;
-- working application-interface screenshots for all six original products;
+- working application identities and interfaces across the suite;
 - direct App Store Connect TestFlight evidence for Ediogram version 1.0 builds 2, 3, and 4;
-- Ediogram build-upload timestamps from July 10, 2026;
-- Ediogram build 4 shown as awaiting review;
-- Ediogram internal and external testing groups configured;
-- a live Ediogram launch page and waitlist;
+- direct App Store Connect TestFlight evidence for The Village version 1.0 build 1;
+- The Village build-upload timestamp from July 10, 2026 at 9:56 PM;
+- The Village build 1 shown as approved;
+- internal and external Family testing groups configured for The Village;
+- live launch pages for Ediogram and The Village;
 - public company positioning for the software incubator;
 - corporate charter language describing private-first and user-controlled product principles.
 

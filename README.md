@@ -5,7 +5,7 @@ AI Systems Architect | Product Engineer | Founder
 
 ## Purpose
 
-This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the seven-application Edios Suite.
+This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the eight-application Edios Suite.
 
 It is designed to support professional evaluation by recruiters, hiring managers, collaborators, founders, and technical reviewers.
 
@@ -26,7 +26,7 @@ It is designed to support professional evaluation by recruiters, hiring managers
 
 ### Edios Suite
 
-Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed a seven-application iOS portfolio and advanced all seven products through TestFlight.
+Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed an eight-application iOS portfolio and brought all eight products to TestFlight beta distribution.
 
 1. Radius
 2. Comedy Camera
@@ -35,8 +35,9 @@ Michael created the Edios initiative in 2024 and established **Edios Digital Mem
 5. Ennerstellar
 6. Edios Digital Memory Platform
 7. Ediogram
+8. The Village
 
-Six applications are in TestFlight beta distribution. Ediogram version 1.0 has completed multiple build uploads, and its latest evidenced build is awaiting review.
+All eight applications are approved for TestFlight beta distribution. The Village version 1.0 build 1 was approved after direct App Store Connect review.
 
 See [`portfolio/edios-suite/README.md`](portfolio/edios-suite/README.md) for the public-safe suite overview and evidence status.
 
@@ -61,6 +62,7 @@ ai-systems-portfolio/
 │       ├── application-registry.md
 │       ├── testflight-status.md
 │       ├── ediogram.md
+│       ├── the-village.md
 │       └── six additional public-safe case studies
 ├── writing/
 │   └── public-technical-writing-index.md

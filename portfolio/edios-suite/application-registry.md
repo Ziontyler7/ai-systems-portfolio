@@ -8,14 +8,14 @@
 | 4 | MindReader | Social gaming | Social guessing experience built around clues, points, and player intuition | TestFlight beta |
 | 5 | Ennerstellar | Memorial technology | Space-oriented memorial and remembrance experience | TestFlight beta |
 | 6 | Edios Digital Memory Platform | Digital memory | Private-first experience for preserving and organizing personal memory | TestFlight beta |
-| 7 | Ediogram | Word gaming | Fast-paced crossword-grid builder with Solo Sprint and competitive play | TestFlight version 1.0; latest build awaiting review |
+| 7 | Ediogram | Word gaming | Fast-paced crossword-grid builder with Solo Sprint and competitive play | TestFlight beta |
+| 8 | The Village | Practical-skills education | Local-first learning experience for tradespeople, craftspeople, elders, and learners | TestFlight beta |
 
 ## Registry controls
 
 - Application order is approved for public presentation.
-- All seven applications have entered the TestFlight pipeline.
-- Six applications are in TestFlight beta distribution.
-- Ediogram version 1.0 has completed builds 2, 3, and 4; build 4 is awaiting review.
-- TestFlight status is represented as beta distribution or review status, not App Store availability.
+- All eight applications are approved for TestFlight beta distribution.
+- The Village version 1.0 build 1 is supported by direct App Store Connect approval evidence.
+- TestFlight status is represented as beta distribution, not App Store availability.
 - Categories are public-safe summaries and do not disclose protected implementation details.
 - Technical stacks and formal test records remain pending structured evidence archival.

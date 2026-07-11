@@ -1,42 +1,20 @@
 # TestFlight Evidence Status
 
-All seven Edios Suite applications have entered the TestFlight pipeline.
+The Edios Suite now contains eight iOS applications, and all eight have reached TestFlight beta distribution.
 
-## Portfolio status
+## Confirmed status
 
-- Six applications are in TestFlight beta distribution.
-- Ediogram version 1.0 has completed build uploads for builds 2, 3, and 4.
-- Ediogram build 4 was created on July 10, 2026 at 6:51 PM and is awaiting review.
-- Internal and external testing groups are configured for Ediogram.
+- Radius, Comedy Camera, Amateur Artist, MindReader, Ennerstellar, and Edios Digital Memory Platform are in TestFlight beta.
+- Ediogram version 1.0 is in TestFlight beta.
+- The Village version 1.0 build 1 was uploaded on July 10, 2026 at 9:56 PM and approved for TestFlight.
+- Internal and external Family testing groups are configured for The Village.
 
 ## Evidence classification
 
-**Current classification:** direct App Store Connect evidence for Ediogram; user-confirmed and screenshot-supported portfolio evidence for the other six applications.
+Direct App Store Connect screenshots support the Ediogram and The Village release records. The original six applications are supported by the existing portfolio screenshots and founder-confirmed TestFlight records.
 
-Available screenshots establish:
+## Approved portfolio claim
 
-- the seven-product Edios Suite;
-- distinct application identities;
-- working application interfaces;
-- Ediogram's public launch page and waitlist;
-- Ediogram version 1.0 build history;
-- completed uploads for builds 2, 3, and 4;
-- build 4 awaiting review;
-- internal and external testing groups.
+> Designed and developed an eight-application iOS portfolio and brought all eight products to TestFlight beta distribution.
 
-## Controlled claim
-
-> Designed and developed a seven-application iOS portfolio and advanced all seven products through TestFlight, with six applications in beta distribution and Ediogram version 1.0 awaiting review.
-
-## Not claimed
-
-- App Store launch;
-- public production availability;
-- user counts;
-- revenue;
-- commercial traction;
-- approval of Ediogram build 4.
-
-## Pending archival
-
-For the first six applications, build numbers, version numbers, exact upload dates, TestFlight approval dates, tester records, and formal release notes remain pending structured archival from local source files and Apple distribution records.
+TestFlight distribution is a beta milestone and is not represented as an App Store launch.
