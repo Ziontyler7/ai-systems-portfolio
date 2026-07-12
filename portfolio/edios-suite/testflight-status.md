@@ -1,6 +1,6 @@
 # TestFlight Evidence Status
 
-The Edios Suite now contains eight iOS applications, and all eight have reached TestFlight beta distribution.
+The Edios Suite now contains nine iOS applications, and all nine have reached TestFlight beta distribution.
 
 ## Confirmed status
 
@@ -8,6 +8,7 @@ The Edios Suite now contains eight iOS applications, and all eight have reached 
 - Ediogram version 1.0 is in TestFlight beta.
 - The Village version 1.0 build 1 was uploaded on July 10, 2026 at 9:56 PM and approved for TestFlight.
 - Internal and external Family testing groups are configured for The Village.
+- OmegaExplorer version 1.0.0 builds 1 and 2 were uploaded and approved for external TestFlight beta.
 
 ## Evidence classification
 
@@ -15,6 +16,6 @@ Direct App Store Connect screenshots support the Ediogram and The Village releas
 
 ## Approved portfolio claim
 
-> Designed and developed an eight-application iOS portfolio and brought all eight products to TestFlight beta distribution.
+> Designed and developed a nine-application iOS portfolio and brought all nine products to TestFlight beta distribution.
 
 TestFlight distribution is a beta milestone and is not represented as an App Store launch.
