@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Edios Suite is an eight-application iOS portfolio created and developed by Michael Tyler.
+The Edios Suite is a nine-application iOS portfolio created and developed by Michael Tyler.
 
 The underlying Edios initiative began in 2024. **Edios Digital Memory Platform LLC** was established in March 2026 as a private-first consumer software incubator and digital experience lab built around absolute digital ownership, local-first operation, and secure user-controlled data.
 
@@ -18,12 +18,13 @@ Michael's role across the suite includes product strategy, systems architecture,
 6. **Edios Digital Memory Platform** — private-first digital memory application
 7. **Ediogram** — fast-paced crossword-grid builder with Solo Sprint and competitive play
 8. **The Village** — local-first practical-skills learning platform
+9. **OmegaExplorer** — procedural 3D world-engine companion with terrain generation, embodied AI NPCs, and DualSense integration
 
 ## Release status
 
-All eight applications have reached TestFlight beta distribution.
+All nine applications have reached TestFlight beta distribution.
 
-The Village version 1.0 build 1 was uploaded on July 10, 2026 at 9:56 PM and approved for TestFlight after review. Internal and external Family testing groups are configured.
+The Village version 1.0 build 1 was uploaded on July 10, 2026 at 9:56 PM and approved for TestFlight after review. Internal and external Family testing groups are configured. OmegaExplorer version 1.0.0 builds 1 and 2 were uploaded and approved for external TestFlight beta.
 
 This is a controlled TestFlight claim. It is not an App Store launch claim, a public-user-scale claim, or a commercial-performance claim.
 
