@@ -10,12 +10,14 @@
 | 6 | Edios Digital Memory Platform | Digital memory | Private-first experience for preserving and organizing personal memory | TestFlight beta |
 | 7 | Ediogram | Word gaming | Fast-paced crossword-grid builder with Solo Sprint and competitive play | TestFlight beta |
 | 8 | The Village | Practical-skills education | Local-first learning experience for tradespeople, craftspeople, elders, and learners | TestFlight beta |
+| 9 | OmegaExplorer | Spatial computing and 3D environments | Procedural 3D world-engine companion with terrain generation, embodied AI NPCs, and DualSense integration | External TestFlight beta |
 
 ## Registry controls
 
 - Application order is approved for public presentation.
-- All eight applications are approved for TestFlight beta distribution.
+- All nine applications are approved for TestFlight beta distribution.
 - The Village version 1.0 build 1 is supported by direct App Store Connect approval evidence.
+- OmegaExplorer version 1.0.0 builds 1 and 2 are supported by external TestFlight beta approval.
 - TestFlight status is represented as beta distribution, not App Store availability.
 - Categories are public-safe summaries and do not disclose protected implementation details.
 - Technical stacks and formal test records remain pending structured evidence archival.
