@@ -5,7 +5,7 @@ AI Systems Architect | Product Engineer | Founder
 
 ## Purpose
 
-This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the eight-application Edios Suite.
+This repository is the public evidence hub for Michael Tyler's work as an AI Systems Architect, Product Engineer, and Founder. It documents public-safe architecture, product development, governance-aware AI systems, technical writing, and the nine-application Edios Suite.
 
 It is designed to support professional evaluation by recruiters, hiring managers, collaborators, founders, and technical reviewers.
 
@@ -26,7 +26,7 @@ It is designed to support professional evaluation by recruiters, hiring managers
 
 ### Edios Suite
 
-Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed an eight-application iOS portfolio and brought all eight products to TestFlight beta distribution.
+Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed an nine-application iOS portfolio and brought all nine products to TestFlight beta distribution.
 
 1. Radius
 2. Comedy Camera
