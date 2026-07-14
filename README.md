@@ -1,6 +1,6 @@
 # AI Systems Portfolio
 
-**Michael Tyler, M.Ed.**  
+**Michael Tyler, M.Ed.**
 AI Systems Architect | Product Engineer | Founder
 
 ## Purpose
@@ -26,7 +26,7 @@ It is designed to support professional evaluation by recruiters, hiring managers
 
 ### Edios Suite
 
-Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed an nine-application iOS portfolio and brought all nine products to TestFlight beta distribution.
+Michael created the Edios initiative in 2024 and established **Edios Digital Memory Platform LLC** in March 2026. He designed and developed a nine-application iOS portfolio and brought all nine products to external TestFlight beta distribution.
 
 1. Radius
 2. Comedy Camera
@@ -36,14 +36,15 @@ Michael created the Edios initiative in 2024 and established **Edios Digital Mem
 6. Edios Digital Memory Platform
 7. Ediogram
 8. The Village
+9. OmegaExplorer
 
-All eight applications are approved for TestFlight beta distribution. The Village version 1.0 build 1 was approved after direct App Store Connect review.
+All nine applications are approved for TestFlight beta distribution. The Village version 1.0 build 1 was approved after direct App Store Connect review. OmegaExplorer, a procedural 3D world-engine companion featuring terrain generation, embodied AI NPCs, native iOS controls, and DualSense controller integration, completed multiple version 1.0.0 build uploads and was approved for external TestFlight beta.
 
 See [`portfolio/edios-suite/README.md`](portfolio/edios-suite/README.md) for the public-safe suite overview and evidence status.
 
 ## Repository Map
 
-```text
+```
 ai-systems-portfolio/
 ├── README.md
 ├── docs/
@@ -103,5 +104,5 @@ It is a professional evidence layer, not a private archive.
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/michael-tyler
-- GitHub: https://github.com/Ziontyler7
+- LinkedIn: <https://linkedin.com/in/michael-tyler>
+- GitHub: <https://github.com/Ziontyler7>
